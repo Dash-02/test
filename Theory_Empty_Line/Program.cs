@@ -31,6 +31,7 @@ namespace Tasks
 
             isNullOrEmpty = string.IsNullOrEmpty(empty);
             Console.WriteLine(isNullOrEmpty);
+	    Console.WriteLine();
         }
     }
 }
